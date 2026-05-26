@@ -6,6 +6,6 @@ A simple project to learn how to use Git and GitHub.
 
 Clone the repository and explore the files.
 
-## Contibuting
+## Contributing
 
 Feel free to open issues and pull requests!
